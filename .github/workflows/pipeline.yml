@@ -43,4 +43,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_tanp77 }}/student-k8s-demo:${{ github.sha }}
+          tags: ${{ secrets.DOCKERHUB_tanp77 }}/student-k8s-demo:${{ 58407c55231280a557d78deb17edf8c610c6381e }}
